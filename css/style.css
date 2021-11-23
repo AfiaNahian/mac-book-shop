@@ -1,0 +1,19 @@
+.option-button{
+    background-color: #ffffff;
+    border-color:  #131111;
+    color:  #131111;
+    border-radius: 8px;
+    padding: 10px 15px;
+}
+.option-button:hover{
+    color: #ffffff;
+    background-color: #131111;
+}
+
+.apply-btn{
+    background-color: #c03715;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
